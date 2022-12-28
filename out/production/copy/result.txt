@@ -1,0 +1,2 @@
+Chuỗi copy: Hello World!!!
+Số ký tự: 14
